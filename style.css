@@ -1,0 +1,52 @@
+.head img{
+    background-color: black;
+    height: 100vh;
+    width: 100%;
+
+}
+.p1 img{
+    float: left;
+
+    
+}
+.p1.p11{
+    background-color: burlywood;
+    float: right;
+
+}
+.p1{
+    background-color: burlywood;
+    text-align: center;
+
+}
+.p2 img{
+    float: left; 
+}
+.p1.p22{
+    background-color: burlywood;
+    float: right;
+
+}
+.p2{
+    background-color: burlywood;
+    text-align: center;
+
+}
+
+
+.p3 img{
+    float: left; 
+}
+.p3.p33{
+    background-color: burlywood;
+    float: right;
+
+}
+.p3{
+    background-color: burlywood;
+    text-align: center;
+
+}
+.clear{
+    clear: both;
+}
